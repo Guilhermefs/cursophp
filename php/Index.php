@@ -1,5 +1,5 @@
 <?php
 
-	echo "Iniciando no PHP";
+	echo "Starting in PHP";
 
 ?>
